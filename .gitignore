@@ -11,7 +11,4 @@
 
 # Build directories
 build*/
-bin
-include
-lib
 
